@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=#3776AB&logoColor=00ff80"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=3776AB&logoColor=00ff80"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimseobin11106&show_icons=true&theme=radical)
 
